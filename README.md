@@ -5,4 +5,6 @@ Practice notebooks for the PyTorch tutorial
 Finish all basic PyTorch tutorials today.
 
 # Result
-Complete 5 out of 8 tutorials. Not bad.
+
+- Completed 5 out of 8 tutorials. Not bad.
+- Done on third day.
