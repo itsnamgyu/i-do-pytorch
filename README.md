@@ -1,10 +1,4 @@
-# pytorch-tutorial-day
-Practice notebooks for the PyTorch tutorial
+# i-do-pytorch
+Practice notebooks for the PyTorch tutorials
 
-# Goal
-Finish all basic PyTorch tutorials today.
-
-# Result
-
-- Completed 5 out of 8 tutorials. Not bad.
-- Done on third day.
+Initially a repo for finishing the basic PyTorch tutorials in one day. Completed in three. Solid effort.
