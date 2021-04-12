@@ -1,6 +1,7 @@
-torch
-torchvision
-torchaudio
+#torch
+#torchvision
+#torchaudio
 jupyter
 matplotlib
 pandas
+tqdm
